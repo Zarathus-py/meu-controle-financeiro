@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 💸 Meu Controle Financeiro Pessoal
 
