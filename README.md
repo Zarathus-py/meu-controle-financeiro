@@ -1,4 +1,4 @@
-```markdown
+
 # 💸 Meu Controle Financeiro Pessoal
 
 Um aplicativo interativo desenvolvido em Python com **Streamlit** para **analisar e visualizar gastos pessoais**. Ideal para quem está começando em **Data Science** e quer aprender a trabalhar com dados reais, gráficos e dashboards simples.
